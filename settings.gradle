@@ -1,0 +1,2 @@
+rootProject.name='big_meow_collection'
+include ':app', ':mvvmhabit', ':library-res', ':library-base'
